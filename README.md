@@ -7,4 +7,4 @@ We used that on a live demo where we used a light sensor and hokked everything t
 
 The code used here was based on the many samples from [github.com/ms-iot/samples](https://github.com/ms-iot/samples)
 
-A link to a video of that talk will be shortly here. 
+Watch the presentation and materials [here](https://www5.genexus.com/meeting2015/gx25.player.aspx?3833) and remember to give [Marcelo](https://twitter.com/meguiluz14) and [Rodolfo](https://twitter.com/rroballo) a hand.
